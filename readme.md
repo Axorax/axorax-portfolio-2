@@ -8,6 +8,8 @@ A simple portfolio website that I made in 1 hour
 [![Github](https://axorax.github.io/badges/github.svg)](https://www.github.com/axorax)
 ___
 
-<img src="delete-me/delete.png" alt="preview">
-Color Palatte
+<img src="delete-me/delete.png" alt="preview"> <br/>
+___
+
+### Color Palatte
 <img src="delete-me/colors.png" alt="preview">
