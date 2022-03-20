@@ -9,3 +9,5 @@ A simple portfolio website that I made in 1 hour
 ___
 
 <img src="delete-me/delete.png" alt="preview">
+Color Palatte
+<img src="delete-me/colors.png" alt="preview">
